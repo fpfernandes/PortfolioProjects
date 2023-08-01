@@ -35,7 +35,7 @@ left join payments
    on leads.visit_page_month = payments.paid_month
 
 -- (Query 2) Top selling states
--- Colunas: country, state, sales (#)
+-- Columns: country, state, sales (#)
 
 select
 	'Brazil' as country,
@@ -50,7 +50,7 @@ order by "sales(#)" desc
 limit 5
 
 -- (Query 3) Top selling brands by month
--- Colunas: brand, sales (#)
+-- Columns: brand, sales (#)
 
 select
 	pro.brand,
@@ -64,7 +64,7 @@ order by "sales (#)" desc
 limit 5
 
 -- (Query 4) Top selling stores
--- Colunas: store, sales (#)
+-- Columns: store, sales (#)
 
 select
 	sto.store_name as store,
@@ -79,7 +79,7 @@ limit 5
 
 
 -- (Query 5) Days of week with the highest number of visits 
--- Colunas: day_of_week, day, visits (#)
+-- Columns: day_of_week, day, visits (#)
 
 select
 	extract('dow' from visit_page_date) as day_of_week,
