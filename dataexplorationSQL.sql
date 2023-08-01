@@ -1,4 +1,4 @@
--- Project of data exploration for Sales Dashboard using PgAdmin4 
+-- Project of data exploration for Car Sales Dashboard using SQL
 
 -- (Query 1) Revenue, leads, conversion and average ticket price
 -- Columns: month, leads (#), sales (#), revenue (k, R$), conversion (%), avg ticket price (k, R$)
