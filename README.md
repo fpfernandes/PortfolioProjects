@@ -80,8 +80,8 @@ __Trello and Notion__
 ## Courses and Certifications
 
 __ISTQB Certified Tester Foundation Level__  
-Issued by the American Software Testing Qualifications Board on Sep/24
-[Link to the certificate](https://atsqa.org/certified-testers/profile/79aa4a14c3a54d0fa6f7d21f25ec4b67)<br>
+Issued by the American Software Testing Qualifications Board on Sep/24<br>
+[Link to the credentials](https://atsqa.org/certified-testers/profile/79aa4a14c3a54d0fa6f7d21f25ec4b67)<br>
 Credential ID: 24-CTFL-02891-USA
 
 
