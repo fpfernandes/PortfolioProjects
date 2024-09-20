@@ -81,7 +81,7 @@ __Trello and Notion__
 
 __ISTQB Certified Tester Foundation Level__  
 Issued by the American Software Testing Qualifications Board on Sep/24
-[Link to the certificate](https://atsqa.org/certified-testers/profile/79aa4a14c3a54d0fa6f7d21f25ec4b67)
+[Link to the certificate](https://atsqa.org/certified-testers/profile/79aa4a14c3a54d0fa6f7d21f25ec4b67)<br>
 Credential ID: 24-CTFL-02891-USA
 
 
@@ -90,18 +90,18 @@ Credential ID: 24-CTFL-02891-USA
 ### Comprehensive Test Cycle Documentation
 Project Overview:
 This project is focused on developing and documenting the entire test cycle of a Banking website using tools such as Google Sheets, JIRA, and Zephyr Scale. 
-The primary objective is to create a robust and detailed framework for testing, ensuring all aspects of the software are thoroughly evaluated and documented.
-Check [GitHub Repo here](https://github.com/fpfernandes/Guru99-Bank-Project))
+The primary objective is to create a robust and detailed framework for testing, ensuring all aspects of the software are thoroughly evaluated and documented.<br>
+Check [GitHub Repo here](https://github.com/fpfernandes/Guru99-Bank-Project)
 
 ### Exploratory Testing on E-commerce Website using the Zephyr Scale
 Project Overview:
 This project focuses on Exploratory Testing performed on the https://timex.com/ website to uncover potential issues in the system's functionality, user experience, and performance. 
-This testing session aimed to simulate user behaviour, identify bugs, and evaluate the overall user journey from product selection to checkout.
+This testing session aimed to simulate user behaviour, identify bugs, and evaluate the overall user journey from product selection to checkout.<br>
 Check [GitHub Repo here](https://github.com/fpfernandes/exploratorytesting)
 
 ### Postman API Project (API ReqRes)
 Project Overview:
 This is a project from the BootCamp, "The Complete Software Testing Bootcamp", organized by Nezam Academy.
 ReqRes is a hosted REST API that is ready to respond to AJAX requests. It allows testers to test APIs for free.
-Below are details about the API Endpoints and how you can use them.
+Below are details about the API Endpoints and how you can use them.<br>
 Check [GitHub Repo here](https://github.com/fpfernandes/API_Project)
